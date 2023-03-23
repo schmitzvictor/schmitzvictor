@@ -1,16 +1,15 @@
-### Hi there 👋
+## A little about me
 
-<!--
-**victorsgm127/victorsgm127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+    <li>👋 Hi, I’m Victor!</li>
+    <li>🖥️ Back-End enthusiast</li>
+    <li>📒 Currently enrolled in Information Systems at UNISUL</li>
+    <li>🌎 Florianópolis, Brazil
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div> 
+  <a href="https://www.linkedin.com/in/victor-schmitz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a>
+  <a href="https://www.instagram.com/victorsgm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
+  <a href="https://open.spotify.com/user/v9c6vhrzcl5amq5fqnr0a7pcz?si=fd01cbcaaf194b3e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" alt="Spotify"></a>
+</div>

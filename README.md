@@ -7,6 +7,9 @@
     <li>🌎 Florianópolis, Brazil
 </ul>
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=schmitzvictor&hide=html&layout=compact&theme=Highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ##
 <div> 
   <a href="https://www.linkedin.com/in/victor-schmitz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a>

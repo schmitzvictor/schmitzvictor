@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m Victor!
 
 <ul>
-    <li>🖥️ Back-End enthusiast</li>
     <li>📒 Currently enrolled in Information Systems at UNISUL</li>
     <li>💼 Back-End intern at Compass.UOL</li>
 </ul>

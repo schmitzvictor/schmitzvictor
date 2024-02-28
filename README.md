@@ -2,7 +2,6 @@
 
 <ul>
     <li>📒 Currently enrolled in Information Systems at UNISUL</li>
-    <li>💼 Back-End intern at Compass.UOL</li>
 </ul>
 
 ##
